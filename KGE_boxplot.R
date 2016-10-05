@@ -8,7 +8,7 @@
 #
 # Output : boksplott (som overskrives, kjør dem interaktivt!)
 #
-# Created by: Elin (HM) September 2016
+# Created by: Elin Langsholt (HM) September 2016
 #####################################################################
 # filomrader
 myHome <- "/home/egl/samkjort_dogn/resultater/"
